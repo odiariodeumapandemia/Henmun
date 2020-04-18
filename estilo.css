@@ -37,10 +37,9 @@
     border-color:#151515;
     border-width: 3px;
     border-radius: 5px;
-
 }
 .diario3{
-      font-size: 23px;
+    font-size: 23px;
     word-wrap: break-word;
     color: white;
     font-family: 'Shadows Into Light', cursive;
@@ -53,9 +52,8 @@
     border-color:#151515;
     border-width: 3px;
     border-radius: 5px;
-
 }
-#diario4{
+.diario4{
      font-size: 23px;
     word-wrap: break-word;
     color: white;
@@ -70,3 +68,17 @@
     border-width: 3px;
     border-radius: 5px;
 }
+.botao{
+    border-style:solid;
+    border-radius: 5px;
+    margin-top: -25%;
+    margin-left: 90%;
+    background-color: #212121;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px
+
+}   
