@@ -81,4 +81,11 @@
     display: inline-block;
     font-size: 16px
 
-}   
+}
+.p2{
+    font-family: 'kindergarten', cursive;
+}
+@font-face{
+    font-family:'kindergarten';
+    src:url(kindergarten.ttf);
+    font-style: normal;
