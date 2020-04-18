@@ -83,9 +83,9 @@
 
 }
 .p2{
-    font-family: 'kindergarten', cursive;
+    font-family: 'iknow', cursive;
 }
 @font-face{
-    font-family:'kindergarten';
-    src:url(kindergarten.ttf);
+    font-family:'iknow';
+    src:url(iknowaghost.ttf);
     font-style: normal;
