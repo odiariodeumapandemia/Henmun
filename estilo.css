@@ -3,6 +3,9 @@
     src:url(iknowaghost.ttf);
     font-style: normal;
 }
+#p2{
+    font-family: 'iknow', cursive;
+}
 .menu {
     border-style:solid;
     border-width:5px;  
